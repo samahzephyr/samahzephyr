@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @samahzephyr
-- 👀 I’m interested in having lot of sex
-- 🌱 I’m currently learning how to make money as Arichandran said
-- 💞️ I’m looking to collaborate on sex, of course
-- 📫 How to reach me? You can't see me
+- 👀 I’m interested in data science, machine learning and python
+- 🌱 I’m currently learning digital marketing , entreprenuership 
+- 💞️ I’m looking to collaborate with like minded individual who are skilled 
+- 📫 How to reach me? samah.zephyr@gmail.com , abdulla abid samah on linked in , 8111843307
 
 <!---
 samahzephyr/samahzephyr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
